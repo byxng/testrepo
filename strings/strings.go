@@ -1,4 +1,4 @@
-package strings
+package morestrings
 
 // ReverseRunes returns its argument string reversed rune-wise left to right.
 // Capitalized so knows to be exported
